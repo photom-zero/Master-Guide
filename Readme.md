@@ -1,4 +1,4 @@
-Mudinja Kandupudii 😁
+### Mudinja Kandupudii 😁
 
 A fun, interactive website designed to help users learn how to use YouTube effectively. This single-page application provides a comprehensive guide to YouTube's features through interactive sections, demonstrations, and quizzes.
 
